@@ -1,0 +1,23 @@
+# Lingkungan virtual
+.venv/
+venv/
+env/
+
+# Pengaturan IDE
+.idea/
+.vscode/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Berkas sementara sistem
+.DS_Store
+Thumbs.db
+
+# Berkas kunci Microsoft Office
+~$*

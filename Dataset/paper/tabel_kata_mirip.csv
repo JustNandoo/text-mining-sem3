@@ -1,0 +1,7 @@
+query,nearest neighbours
+array,"integer (0.58), nums (0.57), n (0.54), length (0.52), element (0.51)"
+string,"character (0.65), substring (0.64), aaabc (0.62), dc (0.58), almostpalindromic (0.58)"
+tree,"root (0.70), rooted (0.69), node (0.63), edge (0.62), edgelist (0.59)"
+sorted,"ascending (0.67), sortedarr (0.63), nondescending (0.62), nondecreasing (0.62), nonincreasing (0.59)"
+binary,"representation (0.74), flipping (0.53), complement (0.53), zigzag (0.51), hexadecimal (0.51)"
+graph,"graphi (0.73), graphij (0.70), edge (0.70), dag (0.69), graphilength (0.68)"

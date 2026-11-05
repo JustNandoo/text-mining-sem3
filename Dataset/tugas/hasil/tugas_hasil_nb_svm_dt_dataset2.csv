@@ -1,0 +1,4 @@
+Model,subset_accuracy,hamming_loss,f1_micro,f1_macro
+SVM,0.106,0.103,0.612,0.533
+Naive Bayes,0.088,0.085,0.522,0.269
+Decision Tree,0.072,0.11,0.506,0.359

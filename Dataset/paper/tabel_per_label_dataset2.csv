@@ -1,0 +1,24 @@
+Label,Support,Precision,Recall,F1
+Binary Tree,23,1.0,0.957,0.978
+String,158,0.961,0.93,0.945
+Tree,34,0.969,0.912,0.939
+Array,386,0.927,0.92,0.923
+Matrix,49,0.836,0.939,0.885
+Graph Theory,28,0.76,0.679,0.717
+Depth-First Search,49,0.696,0.653,0.674
+Math,135,0.646,0.622,0.634
+Bit Manipulation,59,0.718,0.475,0.571
+Hash Table,140,0.579,0.55,0.564
+Breadth-First Search,37,0.511,0.622,0.561
+Sliding Window,29,0.533,0.552,0.542
+Simulation,40,0.486,0.45,0.468
+Dynamic Programming,113,0.465,0.469,0.467
+Sorting,94,0.433,0.447,0.44
+Stack,29,0.5,0.345,0.408
+Greedy,76,0.392,0.408,0.4
+Two Pointers,38,0.389,0.368,0.378
+Binary Search,57,0.339,0.333,0.336
+Prefix Sum,56,0.441,0.268,0.333
+Counting,31,0.269,0.226,0.246
+Heap (Priority Queue),34,0.222,0.176,0.197
+Enumeration,27,0.0,0.0,0.0

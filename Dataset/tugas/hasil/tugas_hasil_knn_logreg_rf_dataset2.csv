@@ -1,0 +1,4 @@
+Model,subset_accuracy,hamming_loss,f1_micro,f1_macro
+Logistic Regression,0.104,0.102,0.615,0.536
+k-NN,0.125,0.086,0.575,0.414
+Random Forest,0.066,0.09,0.508,0.291

@@ -1,0 +1,23 @@
+dataset1_soal,3284
+dataset1_kelas,3
+dataset2_soal,3094
+dataset2_label,23
+dataset2_rata_label,2.85
+total_token,275745
+kata_unik,11257
+panjang_sebelum,1222
+panjang_sesudah,566
+kosakata_w2v,3780
+dimensi_embedding,100
+cakupan_token,95.4
+kombinasi_dataset1,23
+kombinasi_dataset2,23
+terbaik_dataset1,Random Forest + Bag of Words
+f1_macro_dataset1,0.528
+acc_dataset1,0.565
+baseline_f1_dataset1,0.224
+terbaik_dataset2,Logistic Regression + N-gram
+f1_micro_dataset2,0.65
+f1_macro_dataset2,0.551
+hamming_dataset2,0.085
+baseline_f1_micro_dataset2,0.327
